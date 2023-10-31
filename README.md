@@ -4,8 +4,8 @@ UNC-CH-DA - Module 19 Challenge - CryptoClustering
 * Andrew Bourgeois
 
 ### **INSTRUCTIONS**
-* to run the Jupyter Notebook adn test the code and visualizations, clone a copy of the repository to your local machine.
-* make sure to maintain the file structure with the Resources folder or adjsut the path to the csv dataset accordingly in the code.
+* to run the Jupyter Notebook and test the code and visualizations, clone a copy of the repository to your local machine.
+* make sure to maintain the file structure with the Resources folder or adjust the path to the csv dataset accordingly in the code.
 * the name of the Jupyter Notebook is Crypto_Clustering.ipynb
 
 ### **BACKGROUND**
